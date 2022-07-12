@@ -5,16 +5,8 @@
 ``` bash
 # install dependencies
 git clone git clone https://github.com/DevinduDh/Air-Pollution-Detection-using-MQ-Series-Sensors.git
-```
-# serve with hot reload at localhost:9080
-npm run dev
-
-# build electron application for production
-npm run build
-
-
-# lint all JS/Vue component files in `src/`
-npm run lint
+cd Air-Pollution-Detection-using-MQ-Series-Sensors
+pip install -r requirements.txt  # install
 
 ```
 
