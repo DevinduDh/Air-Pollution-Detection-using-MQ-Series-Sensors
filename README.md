@@ -5,7 +5,7 @@
 ``` bash
 # install dependencies
 git clone git clone https://github.com/DevinduDh/Air-Pollution-Detection-using-MQ-Series-Sensors.git
-
+```
 # serve with hot reload at localhost:9080
 npm run dev
 
